@@ -1,0 +1,6 @@
+{
+  "name": "BMW / MINI Multiple Vehicle Pricing (MVP) Redesign",
+  "description": "High-density remarketing pricing tool redesign featuring 3 distinct layout paradigms, keyboard-driven workflow, and WCAG AA compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
